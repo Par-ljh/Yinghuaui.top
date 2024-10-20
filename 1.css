@@ -1,0 +1,14 @@
+/* 注册表单初始时隐藏 */
+#registerForm {
+  display: none;
+}
+
+/* 注册链接样式 */
+a.registerLink {
+  color: blue;
+  cursor: pointer;
+}
+
+a.registerLink:hover {
+  text-decoration: underline;
+}
